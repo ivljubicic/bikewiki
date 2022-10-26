@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  github: 'https://github.com/ivljubicic/bikewiki',
+  docsRepositoryBase: 'https://github.com/ivljubicic/bikewiki/tree/main/pages',
   titleSuffix: ' – Nextra',
   logo: (
     <>
